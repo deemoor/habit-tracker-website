@@ -1,5 +1,5 @@
 .header {
-  padding: 24px 0;
+  padding: 17px 0;
 }
 .header .content {
   display: flex;
@@ -9,10 +9,10 @@
 .header .content .header_logo {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
 }
 .header .content .header_logo img {
-  width: 64px;
+  width: 59px;
 }
 .header .content .header_logo .header_name {
   font-weight: 700;
