@@ -31,7 +31,6 @@
 .legal_title {
   font-weight: 800;
   font-size: clamp(2rem, 4vw, 2.8rem);
-  letter-spacing: -0.02em;
   margin-bottom: 8px;
 }
 
@@ -50,7 +49,6 @@
 .legal_heading {
   font-weight: 700;
   font-size: 22px;
-  letter-spacing: -0.01em;
   margin-bottom: 12px;
 }
 
@@ -78,7 +76,7 @@
   text-transform: uppercase;
   font-weight: 600;
   color: var(--text);
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
 }
 
 /*--------- LEGAL LIST ----------*/

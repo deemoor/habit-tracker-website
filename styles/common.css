@@ -1,7 +1,17 @@
+/*--------- FONTS ----------*/
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/Inter-Variable.woff2') format('woff2');
+  font-weight: 400 800;
+  font-style: normal;
+  font-display: fallback;
+}
+
 /*--------- CONST ----------*/
 
 :root {
-  --font: 'Inter', sans-serif;
+  --font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --bg: #F6F8FE;
   --bg-dark: #161B2E;
   --white: #FFFFFF;
