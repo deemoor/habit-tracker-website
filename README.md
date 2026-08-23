@@ -1,12 +1,8 @@
-# [Habit Cloud](https://habitcloud.org/)
+# Habit Cloud – Website
 
-A free habit tracker with a user-friendly interface is available for download on the App Store.
+The official Habit Cloud website, introducing the app, its features, and core values.  
 
-### Features:
-- Free forever (non-profit project)
-- Habit management, Reminders
-- Progress and Streaks
-- Vacation mode, Habit archive
-- Light and dark themes
-- Clean and convenient interface
-- 4 languages (en, ru, es, de)
+Habit Cloud is a habit tracker for managing routines, with reminders, progress tracking, streaks, and a modern iOS interface. Completely free (no subscriptions, no ads). 
+
+**[→ Website](https://habitcloud.org)**  
+**[→ View the main app repository](https://github.com/deemoor/habit-tracker)**
